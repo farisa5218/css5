@@ -1,0 +1,52 @@
+/* 
+*{
+    margin: 0px;
+    padding: 0px;
+   box-sizing: border-box;
+   outline: 0px;
+}
+a{
+    text-decoration: none;
+}
+.productcard
+{
+    width: 25%;
+   border: 10px solid aqua;
+   margin: 20px;
+  background-color: chartreuse;
+  border-radius: 10px;
+}
+
+ */
+
+
+
+/* div
+ {
+    width: 100%;
+    height: 700px;
+    background-image: linear-gradient(red,yellow,green,aqua,black,purple);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform:uppercase;
+    text-decoration:dashed;
+ 
+ } */
+
+
+
+ h1
+ {
+   font-size: 150px;
+   font-family: sans-serif;
+   text-transform: uppercase;
+   text-align: center;
+   margin-top: 200px;
+   /* background-image: url(https://th.bing.com/th/id/OIP.J9sfzSNX-OJxedkKslhaXAHaE7?rs=1&pid=ImgDetMain); */
+  background-image: linear-gradient(red,orange,blue,yellow,aqua,black,white,purple);
+   background-size: cover;
+   background-clip: text;
+   -webkit-background-clip: text;
+   color: transparent;
+   -webkit-text-fill-color: transparent ;
+ }
